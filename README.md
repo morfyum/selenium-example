@@ -21,18 +21,18 @@ pip3 install selenium
 deactivate
 ```
 
-### Or restore `selenium_env` from `selenium_env_deplist.list`
+### Or restore selenium `venv` from `selenium_env_deplist.list`
 ```
-virtualenv selenium_env
+virtualenv venv
 
-source selenium_env/bin/activate
+source venv/bin/activate
 
 pip3 install -r selenium_env_deplist.list
 ```
 
-### Activate `selenium_env` separated environment
+### Activate `venv` separated environment
 ```
-source selenium_env/bin/activate
+source venv/bin/activate
 ```
 
 # SELENIUM BROWSER DRIVERS
