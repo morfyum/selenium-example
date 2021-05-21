@@ -1,4 +1,4 @@
-## [ WARNING! ] This *"selenium-example"* documentation, is old!
+## [ WARNING! ] This *"selenium-example"* documentation is old!
 
 #### AUTHOR:  MÁRTON JÓZSA
 #### UPDATE:  2020-08-10
